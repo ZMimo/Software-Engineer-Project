@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/activity_main.xml" value="0.16292134831460675" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/admin_activity.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/admin_input.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/camera_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/masterdata_activity.xml" value="0.1" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/masterdata_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/profit_activity.xml" value="0.1" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/profitdata_row.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/peter/Downloads/AJZ(my-latest)/AJZ/app/src/main/res/layout/user_activity.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/peter/Downloads/AJZ/AJZ/app/src/main/res/layout/activity_main.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/peter/Downloads/AJZ/AJZ/app/src/main/res/layout/admin_activity.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/peter/Downloads/AJZ/AJZ/app/src/main/res/layout/camera_main.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/peter/Downloads/AJZ/AJZ/app/src/main/res/layout/user_activity.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/peter/Downloads/AJZ/AJZ/app/src/main/res/layout/view_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/peter/Downloads/AJZpart3/AJZ/app/src/main/res/layout/camera_main.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

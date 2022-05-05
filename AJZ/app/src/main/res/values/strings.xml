@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AJZ Profit Generator</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="scan_item">Scan Item</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="check_item_status">Check Item Status</string>
+    <string name="checkout_item">Checkout Item</string>
+
+    <string name="scan_text">BARCODE TEXT</string>
+    <string name="view_inventory">View Inventory</string>
+    <string name="add">Add</string>
+    <string name="view_master_data">View Master Data</string>
+    <string name="delete">Delete</string>
+    <string name="checkout">Checkout</string>
+    <string name="quantity">Quantity</string>
+    <string name="view_profit">View Profit</string>
+</resources>
